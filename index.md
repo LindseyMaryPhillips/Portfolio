@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Lindsey Phillips
+View my [LinkedIn Profile](https://www.linkedin.com/in/lyndzie)
 
-You can use the [editor on GitHub](https://github.com/LindseyMaryPhillips/Portfolio/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Specialties: Campaign Management, Reporting, Media Buying and Planning (digital, SEM, mobile, television, radio, print and outdoor media channels), Lead Generation, Social Media Management, Email Marketing, Content Development, Statistical Analysis, SEM and SEO Assessment, Direct Marketing, Graphics Software, Partnership Development, Affiliate Marketing, Client Relations, Account Management. 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Tools: Salesforce, Pardot, Google Analytics, Google Tag Manager, Optimizely, Adobe Illustration, Adobe In Design, Adobe Photoshop, Microsoft Word, Microsoft Excel, Microsoft Powerpoint, OneNote, MailChimp, Basecamp, WordPress
 
-### Markdown
+### Education
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Art Institutes International - Minneasota
+Bachelors of Science in Advertising
+2003 - 2007
 
-```markdown
-Syntax highlighted code block
+## Experience
+### Bluewolfwolf, an IBM Company 
+Sept 2016 - Current
+Marketing Manager Consultant 
 
-# Header 1
-## Header 2
-### Header 3
+Lead [global market strategies](http://www.bluewolf.com/event/unlock-siebel-salesforce-eguide)and work closely with sales, development, IBM integration teams and Salesforce partners to deliver successful campaigns into targeted verticals. Manage and monitor campaign reports on Eloqua email performance, Google Analytics, LinkedIn, AdWords and Optimizely conversion rates. Produced video messaging for events such as [Dreamforce](https://www.youtube.com/watch?v=F5Ob68ujAlw).
 
-- Bulleted
-- List
+### Skona
+Jul 2016 - Jul 2017
+Account Manager
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
+Accountable for day-to-day client management while working closely with design team on creative delivery. Developed brand content for various mediums, including digital and social media, web, print publications and sales/marketing collateral. Drafted a range of written materials, including byline articles, case studies, news releases, [blog posts](http://www.skona.com/blog/230), website content based on client direction.
 
 [Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LindseyMaryPhillips/Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
